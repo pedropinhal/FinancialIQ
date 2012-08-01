@@ -1,0 +1,1 @@
+sqlmetal /server:.\SQLEXPRESS /database:FinancialIQ /dbml:FinancialIqDataContext.dbml /context:FinancialIqDataContext 

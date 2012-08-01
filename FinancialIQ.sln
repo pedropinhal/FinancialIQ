@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinancialIQ.WebUI", "FinancialIQ\FinancialIQ.WebUI.csproj", "{5078D72E-7F42-48BB-8279-B7A52DACD18A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinancialIQ.Domain", "FinancialIQ.Domain\FinancialIQ.Domain.csproj", "{63FD5741-6C3B-45E4-865B-C7FB1745A4F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinancialIQ.Tests", "FinancialIQ.Tests\FinancialIQ.Tests.csproj", "{989C600D-D5F6-41D2-85A2-B379EB8D43DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5078D72E-7F42-48BB-8279-B7A52DACD18A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5078D72E-7F42-48BB-8279-B7A52DACD18A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5078D72E-7F42-48BB-8279-B7A52DACD18A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5078D72E-7F42-48BB-8279-B7A52DACD18A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63FD5741-6C3B-45E4-865B-C7FB1745A4F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63FD5741-6C3B-45E4-865B-C7FB1745A4F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63FD5741-6C3B-45E4-865B-C7FB1745A4F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63FD5741-6C3B-45E4-865B-C7FB1745A4F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{989C600D-D5F6-41D2-85A2-B379EB8D43DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{989C600D-D5F6-41D2-85A2-B379EB8D43DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{989C600D-D5F6-41D2-85A2-B379EB8D43DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{989C600D-D5F6-41D2-85A2-B379EB8D43DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
